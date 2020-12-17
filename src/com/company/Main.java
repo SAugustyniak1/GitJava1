@@ -15,7 +15,8 @@ public class Main {
         System.out.println("last test git version");
 
         System.out.println("das");
-        System.out.println("das");
+        
+        System.out.println("paralel");
 
     }
 }
