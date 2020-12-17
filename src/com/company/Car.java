@@ -1,2 +1,7 @@
-package com.company;public class Car {
+package com.company;
+
+public class Car {
+    String model;
+    String engine;
+
 }
