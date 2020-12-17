@@ -3,3 +3,6 @@
 
 
 my first git java project
+
+*** 
+additional comments
