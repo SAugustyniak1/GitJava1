@@ -8,6 +8,8 @@ public class Main {
         
         System.out.println("2 things same time");
 
+        System.out.println("3rd version");
+
         System.out.println("another someting");
 
         System.out.println("this program is awesome");
