@@ -8,3 +8,5 @@ my first git java project
 additional comments
 
 and next comment
+
+and next comment
