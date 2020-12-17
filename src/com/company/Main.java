@@ -8,5 +8,7 @@ public class Main {
 
         System.out.println("another someting");
 
+        System.out.println("this program is awesome");
+
     }
 }
