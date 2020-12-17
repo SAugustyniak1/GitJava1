@@ -14,6 +14,8 @@ public class Main {
 
         System.out.println("this program is awesome");
 
+        System.out.println("last test");
+
         System.out.println("das");
 
     }
